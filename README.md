@@ -1,2 +1,2 @@
 # Xamarin
-Xamarin iOS samples and utils
+This repository contains iOS samples and utils for C# (Xamarin)
